@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874ae654373e11d43b70cd63abe2fbbb, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  characterSprite: {fileID: 21300000, guid: cae1908ef32d7457e8c9d9e772b22e61, type: 3}
+  characterName: Knight
+  traits: "Ac\u0131mas\u0131z bir sava\u015F\xE7\u0131"
+  damage: 200
+  damageSpeed: 10
+  movementSpeed: 30
+  characterHp: 100

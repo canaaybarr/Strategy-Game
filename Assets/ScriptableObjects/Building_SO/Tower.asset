@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab293b8dfa033d4cb267f1cd6c233e9, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  buildingSprite: {fileID: 21300000, guid: b28ec26716a334556841083ff4875213, type: 3}
+  buildingName: Tower
+  buildingTraits: "Sald\u0131r\u0131lardan seni korumak i\xE7in."
+  buildingPrice: 10
